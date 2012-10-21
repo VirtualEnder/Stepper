@@ -16,3 +16,6 @@
 #define TM1_CLK   GPIO_PIN_2
 #define TM1_DIO   GPIO_PIN_3
 #define TM1_STB   GPIO_PIN_4
+
+extern unsigned long g_ulFlags;
+
